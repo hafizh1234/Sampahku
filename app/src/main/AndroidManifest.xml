@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.projek.projekdicoding3">
+    package="com.projek.Sampahku">
 
     <application
         android:allowBackup="true"
@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Projekdicoding3">
-        <activity android:name=".LoginActivity"></activity>
-        <activity android:name=".HomepageActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.projek.Sampahku.LoginActivity"></activity>
+        <activity android:name="com.projek.Sampahku.HomepageActivity" />
+        <activity android:name="com.projek.Sampahku.RegisterActivity" />
+        <activity android:name="com.projek.Sampahku.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

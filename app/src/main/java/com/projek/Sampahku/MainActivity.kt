@@ -1,8 +1,8 @@
-package com.projek.projekdicoding3
+package com.projek.Sampahku
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.projek.projekdicoding3.databinding.ActivityMainBinding
+import com.projek.Sampahku.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding:ActivityMainBinding

@@ -1,4 +1,4 @@
-package com.projek.projekdicoding3
+package com.projek.Sampahku
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.projek.projekdicoding3
+package com.projek.Sampahku
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
