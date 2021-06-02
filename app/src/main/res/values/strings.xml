@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">projekdicoding3</string>
+    <string name="login">Silahkan Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="lupa_password">Lupa password?</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftar_akun_baru">Silahkan Daftar Akun Baru</string>
+    <string name="abdurrahman_hanifah">Abdurrahman Hanifah</string>
+    <string name="abdul_gmail_com">abdul@gmail.com</string>
+    <string name="masuk">Masuk</string>
+    <string name="silahkan_masuk_dengan_akun_yang_nsudah_terdaftar">Silahkan masuk dengan akun\n yang sudah terdaftar</string>
+    <string name="selamat_datang_di_aplikasi_sampahku">Selamat datang di aplikasi Sampahku</string>
+    <string name="atau_daftar_akun_baru">atau daftar akun baru</string>
+</resources>
